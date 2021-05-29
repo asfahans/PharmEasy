@@ -20,6 +20,8 @@ export const colors = {
   //
   quinaryMedium: `hsl(${quinaryHueColor}, 100%, 89%)`,
   //
+  white: `hsl(0, 0%, 100%)`,
+  black: `hsl(0, 0%, 0%)`,
   disabled: `hsl(0, 0%, 87%)`,
   error: `hsl(0, 100%, 66%)`,
   success: `hsl(140, 100%, 30%)`,
